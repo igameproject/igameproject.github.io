@@ -14,3 +14,4 @@ You can contribute either by:
 - Helping us with the official website of this project
 - Or making web based games that are aligned to our vision and mission
 
+### Link: [http://igameproject.com/](http://igameproject.com/)

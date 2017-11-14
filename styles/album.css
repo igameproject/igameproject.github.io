@@ -11,6 +11,16 @@ body {
   padding-bottom: 6rem;
   margin-bottom: 0;
   background-color: #fff;
+  background-image: url('../img/gaming.jpg');
+  /* Set a specific height */
+ height: 500px;
+
+ /* Create the parallax scrolling effect */
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+  border-radius: 0;
 }
 
 .jumbotron p:last-child {
@@ -29,7 +39,7 @@ body {
   min-height: 50rem; /* Can be removed; just added for demo purposes */
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #f7f7f7;
+  background-color: #dbdbdb;
 }
 
 a,a:hover,a:visited{
@@ -62,11 +72,11 @@ a,a:hover,a:visited{
 }
 
 footer {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color:#292b2b;
 }
 
 footer p {
   margin-bottom: .25rem;
 }
-

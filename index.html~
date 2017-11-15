@@ -50,7 +50,7 @@
     <section class="jumbotron text-center">
       <div class="container">
         <p class="jumbotron-heading">
-        	<img id = "igp" src = "img/igm.png" width="300" height= "300">
+        	<img src = "img/igm.png" width="300" height= "300">
         </p>
         <p class="lead text-white">Open Source Game Development</p>
       </div>

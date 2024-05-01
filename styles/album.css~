@@ -3,7 +3,7 @@ body {
 }
 
 #igp{
-	-webkit-animation: zoom 2.5s linear reverse;
+	-webkit-animation: zoom 3s linear reverse;
 }
 
 @-webkit-keyframes zoom {

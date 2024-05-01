@@ -30,8 +30,8 @@
           <div class="col-sm-4 py-4">
             <h4 class="text-white">Contact</h4>
             <ul class="list-unstyled">
-              <li><a href="https://www.github.com/igameproject" target="_blank" class="text-white">Contribute on Github</a></li>
-              <li><a href="https://www.facebook.com/indiangameproject" target="_blank" class="text-white">Like us on Facebook</a></li>
+              <li><a href="https://www.github.com/igameproject" class="text-white">Contribute on Github</a></li>
+              <li><a href="https://www.facebook.com/indiangameproject" class="text-white">Like us on Facebook</a></li>
 
             </ul>
           </div>
@@ -132,7 +132,9 @@
       </div>
     </footer>
 
-    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
    <script
   src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
   integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
